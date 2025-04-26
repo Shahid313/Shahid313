@@ -64,11 +64,11 @@
 
 
 ## 📫 **Let's Collaborate**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-ihsan-597535293)
-[![Email](https://img.shields.io/badge/✉️_Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:theshoaibihsan10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/shahid-khan-71046821a/)
+[![Email](https://img.shields.io/badge/✉️_Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shahidkahn11@gmail.com)
 
 ---
 
 ## 📊 **GitHub Activity**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shoaib578&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib578&layout=compact&theme=vision-friendly-dark&hide=roff)](https://github.com/Shoaib578)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shahid313&theme=dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid313&layout=compact&theme=vision-friendly-dark&hide=roff)](https://github.com/Shahid313)
