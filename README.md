@@ -3,7 +3,7 @@
 
 ### **Data Scientist** | **ML Engineer**  
 
-🚀 Passionate about crafting **high-performance, scalable web and mobile applications** with clean, maintainable code. I combine strong **UI/UX principles** with robust backend architecture to deliver seamless digital experiences.  
+🚀 I specialize in **Machine Learning** and **Data Science**, skilled in **Python, Flask, Django, HTML, CSS, Node.js**, and **React.js**. I transform raw data into valuable insights and build intelligent, scalable solutions. My work combines data analysis, deep learning, web development, and API integration to deliver real-world impact. 
 
 🔍 **Focus Areas**:  
 ✔ **End-to-end development** (Frontend + Backend)  
