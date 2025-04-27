@@ -3,13 +3,17 @@
 
 ### **Data Scientist** | **ML Engineer**  
 
-🚀 I specialize in **Machine Learning** and **Data Science**, skilled in **Python, Flask, Django, HTML, CSS, Node.js**, and **React.js**. I transform raw data into valuable insights and build intelligent, scalable solutions. My work combines data analysis, deep learning, web development, and API integration to deliver real-world impact. 
+🚀 I specialize in **Machine Learning** and **Data Science**, skilled in **Python, Flask, Django, HTML, CSS, Node.js**, and **React.js**. I transform raw data into valuable insights and build intelligent, scalable solutions. My work combines **data analysis, deep learning, web development**, and **API integration** to deliver real-world impact. 
 
 🔍 **Focus Areas**:  
-✔ **End-to-end development** (Frontend + Backend)  
-✔ **Responsive, pixel-perfect UIs** with modern CSS frameworks  
-✔ **API design** and third-party integrations  
-✔ **Performance optimization** and security best practices  
+✔ **Data Preprocessing** and **Feature Engineering**
+✔ Machine Learning **Model Developments**  
+✔ Deep Learning **(CNNs, RNNs, Transformers)**  
+✔ Web Development with **Flask, Django, Node.js, React.js**  
+✔ **API Development** and **Integration**
+✔ **Data Visualization**  
+✔ **Predictive Analytics** and **NLP Projects**  
+✔ **Cross-Lingual Transfer Learning Research**
 
 ---
 
