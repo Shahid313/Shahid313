@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Shahid 
 
-### **Full Stack Developer** | **Web & Mobile App Specialist**  
+### **Data Scientist** | **ML Engineer**  
 
 🚀 Passionate about crafting **high-performance, scalable web and mobile applications** with clean, maintainable code. I combine strong **UI/UX principles** with robust backend architecture to deliver seamless digital experiences.  
 
